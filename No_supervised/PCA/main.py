@@ -18,6 +18,7 @@ scaler = preprocessing.StandardScaler().fit(X)
 
 X_scaled = preprocessing.scale(X)
 
+a = X_scaled.tra
 # print( X_scaled)
 
 
