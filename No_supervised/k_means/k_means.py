@@ -38,6 +38,7 @@ X_pca = pca.fit(X_scaled).transform(X_scaled)
 
 
 
+
 #
 PCA(copy=True, iterated_power='auto', n_components=2, random_state=None,
   svd_solver='auto', tol=0.0, whiten=False)
